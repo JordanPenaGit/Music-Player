@@ -36,3 +36,6 @@ dependencies listed in the package.json file
 
 • Once the packages are done installing, the user can start the program using the command
 npm start
+
+This command should prompt your default browser to open localhost:3000. For smooth
+user experience, we recommend launching our web application on Google Chrome.
