@@ -2,11 +2,13 @@
 
 
 Materials Required
+
 Considering the user has access to a laptop/desktop and internet connection in order to use our
 web-application through Google Chrome or Safari, the user will also need some additional
 software components and packages to run our source code.
 
 The user will need to install:
+
 • NodeJS version 16.13.2 or later (supposing backwards compatibility is maintained) in their local machine
 
 NodeJS will enable the installation of all other necessary crucial packages and dependencies
@@ -14,6 +16,7 @@ which will be installed using certain commands listed in the Build Instructions 
 
 
 Build Instructions
+
 First, the user should clone the project source code from this github.
 
 • On one of the terminal windows, go to the server directory using cd server
